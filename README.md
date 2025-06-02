@@ -1,2 +1,2 @@
 # Training-institute-
-Which tells the working of an instite
+Which tells the working of an institute 
